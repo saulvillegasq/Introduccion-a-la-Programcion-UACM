@@ -6,7 +6,7 @@ int main(void) {
     float area = PI * radio * radio;
 
     printf("Radio = %.2f\n", radio);
-    printf("Area = %.2f\n", area);
+    printf("Area = %.4f\n", area);
 
     return 0;
 }

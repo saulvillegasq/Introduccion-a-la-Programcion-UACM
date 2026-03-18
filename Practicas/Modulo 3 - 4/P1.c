@@ -1,3 +1,9 @@
+/*
+Archivo: P1.c
+Autor: saulv
+Descripcion: Programa que ilustra los tipos de documentacion 
+en codigo 
+*/
 #include <stdio.h>
 
 int main(void) {
