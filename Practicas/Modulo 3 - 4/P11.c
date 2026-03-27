@@ -4,9 +4,9 @@ int main(void) {
     int a = 5;
     int b = 2;
 
-    printf("Division entera: %d\n", a / b);
+    printf("Division entera: %d\n",a / b);
     printf("Division real sin casteo correcto: %f\n", (float)(a / b));
-    printf("Division real con casteo correcto: %f\n", (float)a / b);
+    printf("Division real con casteo correcto: %d\n", (float)a / b);
 
     return 0;
 }
